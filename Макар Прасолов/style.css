@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+color: azure;
+    background: radial-gradient(circle, rgb(191, 71, 6) 0%, rgb(116, 5, 5) 37%, rgb(236, 240, 8) 100%);
+}
+.container{
+    max-width: 1920px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+img{
+    border-radius: 20px;
+    width: 400px;
+    margin-right: 10px;
+}
+
+.section{
+    display: flex;
+    margin-top: 40px;
+}
