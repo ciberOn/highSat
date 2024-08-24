@@ -23,6 +23,7 @@ img{
 }
 
 .section{
+    height: 100%;
     display: flex;
     margin-top: 40px;
 }
